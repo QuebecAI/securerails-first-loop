@@ -1,0 +1,15 @@
+{
+  "actual_root_sha256": "2587a9b25c5df00d087b0094c5cfd8c1796db02464876657e8d02d5d9acf76ca",
+  "claim_boundary": "Internal CI replay is not the same as independent reviewer replication. This artifact does not claim achieved AGI, ASI, empirical SOTA, safe autonomy, standard-setting control, guaranteed economic return, or civilization-scale capability. It records a bounded Evidence Docket. Stronger claims require independent replay, full baselines, cost/safety ledger review, delayed outcomes, and independent audit.",
+  "expected_root_sha256": "99bad8b9b4b261f81f79f1b8cc2d7f1d114dbbb54560f943ed7688b6c1cdebb0",
+  "generated_at_epoch": 1793974823,
+  "independent": false,
+  "mismatches": [
+    {
+      "error": "json mismatch",
+      "file": "00_manifest.json"
+    }
+  ],
+  "schema": "agialpha.replay_report.v1",
+  "status": "fail"
+}
